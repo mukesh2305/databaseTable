@@ -1,0 +1,66 @@
+[{
+  "_id": {
+    "$oid": "61b7952f6d699653a536396f"
+  },
+  "name": "mukesh",
+  "email": "mukesh@gmail.com",
+  "password": "password",
+  "avatar": {
+    "public_id": "this is public id",
+    "url": "profilepicUrl"
+  },
+  "role": "user",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61b79a39f252183052787f19"
+  },
+  "name": "mukesh",
+  "email": "mukesh@youtube.com",
+  "password": "$2a$10$B5ZsgIn8DP8eMrFkRUA/cusVeuW3QbKCt6cI1duGoM9LY.85BRXa6",
+  "avatar": {
+    "public_id": "this is public id",
+    "url": "profilepicUrl"
+  },
+  "role": "user",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61b7a2c2fdd81f6cb8ed68e7"
+  },
+  "name": "mukesh",
+  "email": "shiv@gmail.com",
+  "password": "$2a$10$VZqpw6cZY8NgGjxKvaNq2eBmAfza52f1oau3wflIh51pgEOhS.EQe",
+  "avatar": {
+    "public_id": "this is public id",
+    "url": "profilepicUrl"
+  },
+  "role": "admin",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61c99794d661abd0d172c67f"
+  },
+  "name": "hari",
+  "email": "hari@youtube.com",
+  "password": "$2a$10$Tel2jQeAsV4gBYXDEwCy5.UUxoRdTLUsFD7QgbQjSnZm80onMfN/G",
+  "avatar": {
+    "public_id": "this is public id",
+    "url": "https://i.ibb.co/DRST11n/1.webp"
+  },
+  "role": "admin",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61d2bf1cda359eba11f132bb"
+  },
+  "name": "mukesh",
+  "email": "mukesh123456@gmail.com",
+  "password": "$2a$10$SaZfx2VNiF1zg2oML4sjq.GNzXzxqDM/7nMkw0kj9b/Okxp1TuOBW",
+  "avatar": {
+    "public_id": "this is public id",
+    "url": "https://res.cloudinary.com/ddcppldnj/image/upload/v1641201435/avatars/cndr3iydjkkbhef6yr3e.png"
+  },
+  "role": "user",
+  "__v": 0
+}]

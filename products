@@ -1,0 +1,302 @@
+[{
+  "_id": {
+    "$oid": "61b46e14d1a0bbbf106fd292"
+  },
+  "name": "product1",
+  "description": "this is new product added",
+  "price": 1200,
+  "rating": 2,
+  "images": [
+    {
+      "public_id": "sample image",
+      "url": "https://i.ibb.co/DRST11n/1.webp",
+      "_id": {
+        "$oid": "61b46e14d1a0bbbf106fd293"
+      }
+    }
+  ],
+  "category": "Laptop",
+  "stock": 1,
+  "numberOfReviews": 1,
+  "reviews": [
+    {
+      "name": "hari",
+      "rating": 5,
+      "comment": " values are added"
+    }
+  ],
+  "createdAt": {
+    "$date": "2021-12-11T09:23:32.593Z"
+  },
+  "__v": 1,
+  "ratings": 5
+},{
+  "_id": {
+    "$oid": "61b58ff06e06839a46236af1"
+  },
+  "name": "product1",
+  "description": "this is new product added",
+  "price": 500,
+  "rating": 0,
+  "images": [
+    {
+      "public_id": "sample image",
+      "url": "https://i.ibb.co/DRST11n/1.webp",
+      "_id": {
+        "$oid": "61b58ff06e06839a46236af2"
+      }
+    }
+  ],
+  "category": "just things",
+  "stock": 1,
+  "numberOfReviews": 0,
+  "reviews": [],
+  "createdAt": {
+    "$date": "2021-12-12T06:00:16.923Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61ba262a8433e6c8728a20e3"
+  },
+  "name": "sample product2",
+  "description": "this is new product added",
+  "price": 12500,
+  "rating": 0,
+  "images": [
+    {
+      "public_id": "sample image",
+      "url": "https://i.ibb.co/DRST11n/1.webp",
+      "_id": {
+        "$oid": "61ba262a8433e6c8728a20e4"
+      }
+    }
+  ],
+  "category": "value of money machine",
+  "stock": 1,
+  "numberOfReviews": 0,
+  "user": {
+    "$oid": "61b7a2c2fdd81f6cb8ed68e7"
+  },
+  "reviews": [],
+  "createdAt": {
+    "$date": "2021-12-15T17:30:18.805Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61ba274b369da3d7e8bb9899"
+  },
+  "name": "sample product2",
+  "description": "this is new product added",
+  "price": 12500,
+  "rating": 0,
+  "images": [
+    {
+      "public_id": "sample image",
+      "url": "https://i.ibb.co/DRST11n/1.webp",
+      "_id": {
+        "$oid": "61ba274b369da3d7e8bb989a"
+      }
+    }
+  ],
+  "category": "value of money machine",
+  "stock": 1,
+  "numberOfReviews": 0,
+  "user": {
+    "$oid": "61b7a2c2fdd81f6cb8ed68e7"
+  },
+  "reviews": [],
+  "createdAt": {
+    "$date": "2021-12-15T17:35:07.582Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61c9a667b08b5e97dd36a350"
+  },
+  "name": "shiv shambo",
+  "description": "this is new product added",
+  "price": 2100,
+  "ratings": 0,
+  "images": [
+    {
+      "public_id": "sample image",
+      "url": "https://i.ibb.co/DRST11n/1.webp",
+      "_id": {
+        "$oid": "61c9a667b08b5e97dd36a351"
+      }
+    }
+  ],
+  "category": "spritual",
+  "stock": -1,
+  "numberOfReviews": 0,
+  "user": {
+    "$oid": "61b7a2c2fdd81f6cb8ed68e7"
+  },
+  "reviews": [],
+  "createdAt": {
+    "$date": "2021-12-27T11:41:27.729Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61c9a849dfd349b00d3ccc4f"
+  },
+  "name": "shiv shambo",
+  "description": "this is new product added",
+  "price": 2100,
+  "ratings": 4,
+  "images": [
+    {
+      "public_id": "sample image",
+      "url": "https://i.ibb.co/DRST11n/1.webp",
+      "_id": {
+        "$oid": "61c9a849dfd349b00d3ccc50"
+      }
+    }
+  ],
+  "category": "spritual",
+  "stock": 1,
+  "numberOfReviews": 0,
+  "user": {
+    "$oid": "61b7a2c2fdd81f6cb8ed68e7"
+  },
+  "reviews": [],
+  "createdAt": {
+    "$date": "2021-12-27T11:49:29.168Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61c9aa28ad1932134c2700c2"
+  },
+  "name": "value shambo",
+  "description": "this is new product added",
+  "price": 21212121,
+  "ratings": 2,
+  "images": [
+    {
+      "public_id": "sample image",
+      "url": "https://i.ibb.co/DRST11n/1.webp",
+      "_id": {
+        "$oid": "61c9aa28ad1932134c2700c3"
+      }
+    }
+  ],
+  "category": "value",
+  "stock": 1,
+  "numberOfReviews": 0,
+  "user": {
+    "$oid": "61b7a2c2fdd81f6cb8ed68e7"
+  },
+  "reviews": [],
+  "createdAt": {
+    "$date": "2021-12-27T11:57:28.544Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61c9ad34ebdbc3d80aeea015"
+  },
+  "name": "hii shambo",
+  "description": "this is new product added",
+  "price": 2100,
+  "ratings": 3,
+  "images": [
+    {
+      "public_id": "sample image",
+      "url": "https://i.ibb.co/DRST11n/1.webp",
+      "_id": {
+        "$oid": "61c9ad34ebdbc3d80aeea016"
+      }
+    }
+  ],
+  "category": "value",
+  "stock": 1,
+  "numberOfReviews": 1,
+  "user": {
+    "$oid": "61b7a2c2fdd81f6cb8ed68e7"
+  },
+  "reviews": [
+    {
+      "user": {
+        "$oid": "61b7a2c2fdd81f6cb8ed68e7"
+      },
+      "name": "mukesh",
+      "rating": 3,
+      "comment": " values are added",
+      "_id": {
+        "$oid": "61c9ad48ebdbc3d80aeea01b"
+      }
+    }
+  ],
+  "createdAt": {
+    "$date": "2021-12-27T12:10:28.685Z"
+  },
+  "__v": 2
+},{
+  "_id": {
+    "$oid": "61ceb2be2142a66ef8d72961"
+  },
+  "name": "product1",
+  "description": "this is new product added",
+  "price": 1200,
+  "rating": 2,
+  "images": [
+    {
+      "public_id": "sample image",
+      "url": "https://i.ibb.co/DRST11n/1.webp",
+      "_id": {
+        "$oid": "61b46e14d1a0bbbf106fd293"
+      }
+    },
+    {
+      "public_id": "sample image",
+      "url": "https://i.ibb.co/DRST11n/1.webp",
+      "_id": {
+        "$oid": "61b46e14d1a0bbbf106fd293"
+      }
+    }
+  ],
+  "category": "Laptop",
+  "stock": 1,
+  "numberOfReviews": 0,
+  "reviews": [],
+  "createdAt": {
+    "$date": "2021-12-11T09:23:32.593Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61ceb35f2142a66ef8d72962"
+  },
+  "name": "product1",
+  "description": "this is new product added",
+  "price": 1200,
+  "rating": 2,
+  "images": [
+    {
+      "public_id": "sample image",
+      "url": "https://i.ibb.co/DRST11n/1.webp",
+      "_id": {
+        "$oid": "61b46e14d1a0bbbf106fd293"
+      }
+    },
+    {
+      "public_id": "sample image1",
+      "url": "https://i.ibb.co/DRST11n/1.webp",
+      "_id": {
+        "$oid": "61b46e14d1a0bbbf106fd293"
+      }
+    }
+  ],
+  "category": "Laptop",
+  "stock": 1,
+  "numberOfReviews": 0,
+  "reviews": [],
+  "createdAt": {
+    "$date": "2021-12-11T09:23:32.593Z"
+  },
+  "__v": 0
+}]

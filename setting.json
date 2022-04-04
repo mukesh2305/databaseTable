@@ -1,0 +1,52 @@
+{
+  "editor.inlineSuggest.enabled": true,
+  "editor.formatOnSave": true,
+  "editor.fontSize": 12,
+  "editor.fontFamily": "Cascadia Code",
+
+  // "editor.fontFamily": "Fira Code",
+
+
+  // "editor.fontFamily": "'Droid Sans Mono', 'monospace', monospace, 'Droid Sans Fallback'",
+  "editor.fontLigatures": true,
+  "terminal.integrated.fontFamily": "Cascadia Code",
+  "terminal.integrated.fontSize": 11,
+  "editor.fontWeight": "500",
+  "editor.cursorWidth": 10,
+  "emmet.includeLanguages": {
+    "javascript": "javascriptreact",
+    "typescript": "typescriptreact"
+  },
+
+  "workbench.iconTheme": "material-icon-theme",
+  "[javascript]": {
+    "editor.defaultFormatter": "vscode.typescript-language-features"
+  },
+  "editor.formatOnSaveMode": "file",
+  "scm.inputFontFamily": "defaultUbuntu",
+  "[typescriptreact]": {
+    "editor.defaultFormatter": "vscode.typescript-language-features"
+  },
+  "[typescript]": {
+    "editor.defaultFormatter": "vscode.typescript-language-features"
+  },
+
+  // "prettier.tabWidth": 4,
+  "terminal.integrated.defaultProfile.windows": "Git Bash",
+  // "typescript.inlayHints.enumMemberValues.enabled": true,
+  // "typescript.inlayHints.propertyDeclarationTypes.enabled": true,
+  // "typescript.inlayHints.functionLikeReturnTypes.enabled": true,
+  // "typescript.inlayHints.variableTypes.enabled": true,
+  // "typescript.inlayHints.parameterTypes.enabled": true,
+  // // "editor.lineNumbers": "relative",
+  "terminal.integrated.enableMultiLinePasteWarning": false,
+  "workbench.colorTheme": "Monokai",
+  "highlight-matching-tag.enabled": true,
+  "highlight-matching-tag.highlightSelfClosing": true,
+  "[javascriptreact]": {
+    "editor.defaultFormatter": "vscode.typescript-language-features"
+  }
+
+  // "editor.fontFamily": "Consolas, 'Courier New', monospace, 'Droid Sans Fallback'",
+}
+

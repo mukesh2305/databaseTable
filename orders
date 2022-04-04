@@ -1,0 +1,49 @@
+[{
+  "_id": {
+    "$oid": "61cb0eb342f8d07b4c4b3dd9"
+  },
+  "shippingInfo": {
+    "address": "619 Los Angles",
+    "city": "LA",
+    "state": "California",
+    "country": "ndia",
+    "pinCode": 400001,
+    "phoneNo": 1234567898
+  },
+  "orderItems": [
+    {
+      "name": "shiv shambo",
+      "price": 21212121,
+      "quantity": 1,
+      "image": "sample image",
+      "product": {
+        "$oid": "61c9a667b08b5e97dd36a350"
+      },
+      "_id": {
+        "$oid": "61cb0eb342f8d07b4c4b3dda"
+      }
+    }
+  ],
+  "user": {
+    "$oid": "61c99794d661abd0d172c67f"
+  },
+  "paymentInfo": {
+    "id": "sample paymentInfo",
+    "status": "succeeded"
+  },
+  "paidAt": {
+    "$date": "2021-12-28T13:18:43.993Z"
+  },
+  "itemsPrice": 200,
+  "textPrice": 0,
+  "shippingPrice": 336,
+  "totalPrice": 336,
+  "orderStatus": "Delivered",
+  "createdAt": {
+    "$date": "2021-12-28T13:18:44.001Z"
+  },
+  "__v": 0,
+  "deliveredAt": {
+    "$date": "2021-12-28T13:25:20.256Z"
+  }
+}]
